@@ -96,13 +96,13 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-Although frontend development is not my expertise, I can still work with the frontend stack at a basic to intermediate level and create my portfolio website.
+Although frontend development is not my expertise, I can still work with the frontend stack at a basic to intermediate level.
 </Description>
 <Description>
 <strong>Skills</strong>
 <ul>
     <li>
-    🌐 Html, 🎨 Css, 🖥️ Js, ⚛️ React, 📚 Bootstrap
+    🌐Html, 🎨Css, 🖥️Js, ⚛️React, 📚Bootstrap
     </li>
 </ul>
 </Description>
