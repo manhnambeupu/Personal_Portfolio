@@ -93,19 +93,16 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
+Although frontend development is not my expertise, I can still work with the Frontend stack at a basic and intermediate level and with such intermediate level knowledge I can still create my Portfolio website.
 </Description>
 <Description>
-<strong>I like to Design</strong>
+<strong>Skills</strong>
 <ul>
     <li>
-        Web Design
-    </li>
-    <li>
-        Mobile Apps
+    🌐 Html, 🎨 Css, 🖥️ Js, ⚛️ React, 📚 Bootstrap
     </li>
 </ul>
 </Description>
@@ -113,7 +110,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma
+    🛠️ Visual Studio Code, 🐱 GitHub
     </li>
     
 </ul>
@@ -122,21 +119,21 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Backend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I have extensive experience in building REST APIs using the latest version of Spring Boot 3, Spring Data JPA (Hibernate) and MySQL database.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+☕Java (OOP), 🗃️ SQL 
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen etc.
+🌱Spring Boot 3+, 🗃️Spring Data JPA (Hibernate), ✍️Lombok, 🗄️MySQL, 🛠️IntelliJ IDEA, 🧩Maven, 👤Tomcat, 📬Postman, 🐱GitHub
 </p>
 </Description>
 

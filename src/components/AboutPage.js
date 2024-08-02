@@ -72,11 +72,11 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        I am a backend software engineer living and studying in Hamburg.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I am a perfectionist, explainer and love to make software run smoother, specializing in creating efficient solutions to complex problems. I have a solid background in Computer Science and Systems Engineering from the Hamburg University of Applied Sciences.
 <br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+I am very interested in the whole backend stack, as well as Database optimization, because I really want a software to run smoothly and quickly, which will help businesses save more time and spend on more necessary tasks.
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
