@@ -96,7 +96,7 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-Although frontend development is not my expertise, I can still work with the Frontend stack at a basic and intermediate level and with such intermediate level knowledge I can still create my Portfolio website.
+Although frontend development is not my expertise, I can still work with the frontend stack at a basic to intermediate level and create my portfolio website.
 </Description>
 <Description>
 <strong>Skills</strong>
@@ -122,7 +122,7 @@ Although frontend development is not my expertise, I can still work with the Fro
     <Develope width={40} height={40} /> Backend Developer
 </Title>
 <Description>
-I have extensive experience in building REST APIs using the latest version of Spring Boot 3, Spring Data JPA (Hibernate) and MySQL database.
+I have extensive experience building REST APIs with Spring Boot 3, Spring Data JPA (Hibernate), and MySQL.
 </Description>
 <Description>
 <strong>Skills</strong>
