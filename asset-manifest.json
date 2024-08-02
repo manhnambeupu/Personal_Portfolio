@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Personal_Portfolio.github.io/static/css/main.58462fbc.css",
-    "main.js": "/Personal_Portfolio.github.io/static/js/main.90fdfa6d.js",
-    "static/media/u-said-it-v13-1167.mp3": "/Personal_Portfolio.github.io/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "main.js": "/Personal_Portfolio.github.io/static/js/main.c4976d4f.js",
+    "static/media/Music.mp3": "/Personal_Portfolio.github.io/static/media/Music.f96e45e63774d60a6aa8.mp3",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Personal_Portfolio.github.io/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/spaceman.png": "/Personal_Portfolio.github.io/static/media/spaceman.5ec7fcfa9a803ead726c.png",
-    "static/media/Avatar.jpg": "/Personal_Portfolio.github.io/static/media/Avatar.d70a318e4e110f0c49e3.jpg",
+    "static/media/profile-img.png": "/Personal_Portfolio.github.io/static/media/profile-img.5179e446ac1a570ce69b.png",
     "index.html": "/Personal_Portfolio.github.io/index.html",
     "main.58462fbc.css.map": "/Personal_Portfolio.github.io/static/css/main.58462fbc.css.map",
-    "main.90fdfa6d.js.map": "/Personal_Portfolio.github.io/static/js/main.90fdfa6d.js.map"
+    "main.c4976d4f.js.map": "/Personal_Portfolio.github.io/static/js/main.c4976d4f.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.90fdfa6d.js"
+    "static/js/main.c4976d4f.js"
   ]
 }
