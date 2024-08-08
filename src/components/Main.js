@@ -145,7 +145,7 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" href="manhnambeupu@gmail.com">
+            <Contact target="_blank" href="mailto:manhnambeupu@gmail.com">
                 <motion.h2
                 initial={{
                     y:-200,
@@ -159,7 +159,7 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Say hi..
+                    Contact to ...
                 </motion.h2>
             </Contact>
             <BLOG to="/blog">
